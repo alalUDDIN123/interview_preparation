@@ -14,11 +14,19 @@
 2. What is an algorithm?   
    - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/dsa#2_no).
 
-2. What are various data-structures available?   
+3. What are various data-structures available?   
    - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/dsa#3_no).
 
-3. Is string a data structure ? explain it with examples in JavaScript 
+4. Is string a data structure ? explain it with examples in JavaScript 
    - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/dsa#4_no).
+
+
+5. What is brute fruce in dsa ?
+   - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/dsa#5_no).
+
+6. What is Sorting in dsa ? How many sorting techniques are there? explain each techniques briefly
+   - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/dsa#6_no).   
+
 
  https://www.tutorialspoint.com/data_structures_algorithms/sorting_algorithms.htm
 ---
@@ -73,6 +81,21 @@
       - `includes(searchString, position)`: Determines whether a string contains a specified substring and returns true or false.
 
       - `match(regexp)`: Searches a string for a specified pattern (regular expression) and returns an array of matching substrings.
+---
+
+# 5_No:
+ - It's a general problem-solving approach in computer science and algorithms, where a problem is solved by trying all possible solutions, without relying on any specialized knowledge or algorithmic techniques.
+
+---
+# 6_No:
+ - Sorting is the process to arrange data in a particaular format or in a order.There are many different sorting techniques. 
+   - Some of the most common uses techniques mentioned here.
+     - `Bubble sorting` : It works by repeatedly swapping adjacent elements if they are not in order. 
+        -  `Time complexity`: Ο(n2)
+        
+     - `Bubble sorting` : It works by repeatedly swapping adjacent elements if they are not in order. 
+        -  `Time complexity`: Ο(n2)   
+
 
 
 
