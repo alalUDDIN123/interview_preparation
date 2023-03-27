@@ -93,9 +93,11 @@
      - `Bubble sorting` : It works by repeatedly swapping adjacent elements if they are not in order. 
         -  `Time complexity`: Ο(n2)
         
-     - `Bubble sorting` : It works by repeatedly swapping adjacent elements if they are not in order. 
+     - `Selection Sort` : Selection Sort works by repeatedly finding the minimum element from the unsorted part of the array and placing it at the beginning. 
         -  `Time complexity`: Ο(n2)   
 
+     - `Insertion Sort`:  It works by comparing an element with the elements to its left, until it reaches an element that is smaller than it; the element is then inserted in front of the smaller element.
+        -  `Time complexity`: Ο(n2)  
 
 
 
