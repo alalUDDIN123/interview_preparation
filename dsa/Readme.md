@@ -9,16 +9,16 @@
 ## Dsa theory questions answer
 
 1. What is a data structure?
-   - [Ans](https://github.com/alalUDDIN123/DSA/tree/main/#1_no).
+   - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/dsa#1_no).
 
 2. What is an algorithm?   
-   - [Ans](https://github.com/alalUDDIN123/DSA/tree/main/#2_no).
+   - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/dsa#2_no).
 
 2. What are various data-structures available?   
-   - [Ans](https://github.com/alalUDDIN123/DSA/tree/main/#3_no).
+   - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/dsa#3_no).
 
 3. Is string a data structure ? explain it with examples in JavaScript 
-   - [Ans](https://github.com/alalUDDIN123/DSA/tree/main/#4_no).
+   - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/dsa#4_no).
 
  https://www.tutorialspoint.com/data_structures_algorithms/sorting_algorithms.htm
 ---
