@@ -1,3 +1,78 @@
 ## Salary Range 5-6
 
 1. Find the 2nd largest number in the array.
+
+---
+---
+## Thoery Questions
+
+## Dsa theory questions answer
+
+1. What is a data structure?
+   - [Ans](https://github.com/alalUDDIN123/DSA/tree/main/#1_no).
+
+2. What is an algorithm?   
+   - [Ans](https://github.com/alalUDDIN123/DSA/tree/main/#2_no).
+
+2. What are various data-structures available?   
+   - [Ans](https://github.com/alalUDDIN123/DSA/tree/main/#3_no).
+
+3. Is string a data structure ? explain it with examples in JavaScript 
+   - [Ans](https://github.com/alalUDDIN123/DSA/tree/main/#4_no).
+
+ https://www.tutorialspoint.com/data_structures_algorithms/sorting_algorithms.htm
+---
+## Answer :::
+# 1_No
+- Answer: A data structure is a way of organizing data in a computer so that it can be used efficiently. It provides a way to manage and store data, as well as perform operations on the data.
+---
+# 2_No
+- An Algorithm is a step-by-step procedure, which defines a set of instructions to be executed in a certain order to get the desired output.
+---
+# 3_No
+- Data structure availability may vary by programming languages. Mostly used data structures are 
+   - `list`
+   - `arrays`
+   - `stack`
+   - `queues`
+   - `graph`
+   - `tree`
+   - `Binary Search Trees`
+   - `Hash Tables`
+---
+# 4_No
+- No, A string is a sequence of characters that represents text. In JavaScript, strings are declared using either single quotes ('...') or double quotes ("...").
+  - Some of the most common uses  string methods mentioned here with examples
+
+      - `charAt(index)`: Returns the character at the specified index in a string.
+
+      - `concat(str1, str2, ...)`: Concatenates two or more strings together and returns the resulting string.
+
+      - `indexOf(substring, startIndex)`: Searches a string for a specified substring and returns the index of the first occurrence (starting from the specified index if provided).
+
+      - `lastIndexOf(substring, startIndex)`: Searches a string for a specified substring and returns the index of the last occurrence (starting from the specified index if provided).
+
+      - `replace(oldValue, newValue)`: Replaces all occurrences of a specified value in a string with another specified value.
+
+      - `slice(startIndex, endIndex)`: Extracts a section of a string and returns it as a new string (the original string is not modified).
+
+      - `split(separator, limit)`: Splits a string into an array of substrings based on a specified separator and returns the array.
+
+      - `substring(startIndex, endIndex)`: Extracts a section of a string and returns it as a new string (the original string is not modified).
+
+      - `toLowerCase()`: Converts all characters in a string to lowercase and returns the resulting string.
+
+      - `toUpperCase()`: Converts all characters in a string to uppercase and returns the resulting string.
+
+      - `trim()`: Removes whitespace (spaces, tabs, and line breaks) from the beginning and end of a string and returns the resulting string.
+
+      - `startsWith(searchString, position)`: Determines whether a string begins with a specified substring and returns true or false.
+
+      - `endsWith(searchString, position)`: Determines whether a string ends with a specified substring and returns true or false.
+
+      - `includes(searchString, position)`: Determines whether a string contains a specified substring and returns true or false.
+
+      - `match(regexp)`: Searches a string for a specified pattern (regular expression) and returns an array of matching substrings.
+
+
+
