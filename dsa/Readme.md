@@ -27,6 +27,8 @@
 6. What is Sorting in dsa ? How many sorting techniques are there? explain each techniques briefly
    - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/dsa#6_no).   
 
+7. What is stack ? explain with example in JavaScript.
+   - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/dsa#7_no).   
 
  https://www.tutorialspoint.com/data_structures_algorithms/sorting_algorithms.htm
 ---
@@ -99,5 +101,11 @@
      - `Insertion Sort`:  It works by comparing an element with the elements to its left, until it reaches an element that is smaller than it; the element is then inserted in front of the smaller element.
         -  `Time complexity`: Ο(n2)  
 
+      - `Merge Sort`:  It based on divide and conquer technique.
+        -  `Time complexity`: Ο(n logn )    
+      - `Quick Sort`:-   
+---
+# 7_No:
+  - It is  an abstract data type that represents a collection of elements arranged in a specific order. The order is known as Last-In-First-Out (LIFO), 
 
 
