@@ -1,15 +1,19 @@
-let arr = []
+// print unique numbers  from an array using stack
 
-arr.push(1)
-arr.push(2)
-arr.push(3)
-arr.push(4)
-arr.push(5)
+let duplicateArray = [1, 2, 7, 1, 2];
+let stack = [];
+let uniqueArray = [];
 
-console.log("original array::-", arr);
+for (let i = 0; i < duplicateArray.length; i++) {
+  let element = duplicateArray[i];
+  if (!stack.includes(element)) {
+    stack.push(element);
+    uniqueArray.push(element);
+  }
+}
 
-arr.pop()
-arr.pop()
-console.log(" array after pop::-", arr);
+uniqueArray.sort((a, b) => a - b);
 
-
+for (let i = 0; i < uniqueArray.length; i++) {
+  console.log(uniqueArray[i]);
+}

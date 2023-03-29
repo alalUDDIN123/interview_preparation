@@ -27,8 +27,14 @@
 6. What is Sorting in dsa ? How many sorting techniques are there? explain each techniques briefly
    - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/dsa#6_no).   
 
-7. What is stack ? explain with example in JavaScript.
+7. What is stack ? Give some applications of stack and explain with example in JavaScript.
    - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/dsa#7_no).   
+
+8. What is queue DS ? Give some applications of Queue and explain with example in JavaScript.
+   - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/dsa#8_no).   
+
+9. Stack vs Queue
+   - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/dsa#9_no).  
 
  https://www.tutorialspoint.com/data_structures_algorithms/sorting_algorithms.htm
 ---
@@ -106,6 +112,54 @@
       - `Quick Sort`:-   
 ---
 # 7_No:
-  - It is  an abstract data type that represents a collection of elements arranged in a specific order. The order is known as Last-In-First-Out (LIFO), 
+  - It is  an abstract data type that represents a collection of elements arranged in a specific order. The order is known as Last-In-First-Out (LIFO).
+    - Operations of stack
+       - `push`
+       - `pop`
+       - `top`
+       - `isEmpty`
+       - `size`
+    - Applications of stack
+       - Redo and Undo operations in doc editors
+       - Reversing a string
+       - Parenthesis matching
+
+---
+# 8_No:
+  - A queue is a linear data structure that follows the First-In-First-Out `(FIFO)` principle, meaning that the first element added to the queue is the first element to be removed from the queue..
+    - Operations of stack
+       - `enqueue`: This adds an element to the rear end of the queue.  Overflow conditions occur if the queue is full.
+       - `dequeue`: This removes an element from the front end of the queue. Underflow conditions occur if the queue is empty.
+       - `isEmpty`: This returns true if the queue is empty or else false.
+       - `rear`: This returns the rear end element without removing it.
+       - `front`: This returns the front-end element without removing it.
+       - `size`: This returns the size of the queue.
+
+    - Applications of stack
+       - Redo and Undo operations in doc editors
+       - Reversing a string
+       - Parenthesis matching
+---
+# 9_Stack vs Queue
+
+Stack and Queue are two common data structures used in computer science. Here are some of the main differences between them:
+
+| Stack | Queue |
+| --- | --- |
+| Stack is a linear data structure where data is added and removed from the top. | Queue is a linear data structure where data is ended at the rear end and removed from the front. |
+| Stack is based on LIFO (Last In First Out) principle. | Queue is based on FIFO (First In First Out) principle. |
+| Insertion operation in Stack is known as push. | Insertion operation in Queue is known as enqueue. |
+| Delete operation in Stack is known as pop. | Delete operation in Queue is known as dequeue. |
+| Only one pointer is available for both addition and deletion: top(). | Two pointers are available for addition and deletion: front() and rear(). |
+| Used in solving recursion problems. | Used in solving sequential processing problems. |
+
+Stacks and queues are both useful in different contexts, and understanding the differences between them can be helpful in choosing the right data structure for a given problem.
+
+## References
+
+- [Wikipedia: Stack (abstract data type)](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
+- [Wikipedia: Queue (abstract data type)](https://en.wikipedia.org/wiki/Queue_(abstract_data_type))
+
+
 
 
