@@ -34,7 +34,7 @@
    - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/dsa#8_no).   
 
 9. Stack vs Queue
-   - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/dsa#9_no).  
+   - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/dsa#9_stack-vs-queue).  
 
  https://www.tutorialspoint.com/data_structures_algorithms/sorting_algorithms.htm
 ---
