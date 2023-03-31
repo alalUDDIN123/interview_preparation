@@ -1,7 +1,28 @@
 *{
     font-family: Arial, Helvetica, sans-serif;
 }
+:root {
+    --primery-background-color: blue;
+  }
 
-h1{
+     
+  .slide {
+    animation: slide-in 1s ease-in-out;
+    color: white;
+  }
+  
+   
+  h1 {
     text-align: center;
-}
+    background-color: var(--primery-background-color)
+  }
+  @keyframes slide-in {
+    from {
+      transform: translateX(-100%);
+     
+    }
+    to {
+      transform: translateX(0%);
+     
+    }
+  }
