@@ -35,6 +35,43 @@
         <dd>A programming language used to create dynamic and interactive effects on web pages.</dd>
     </dl> -->
 
+    <!-- event lister in html -->
+    <!-- 
+    <div id="myDiv">Hover over me!</div>
+    <div id="mueseover">Mouse over</div> -->
+
+    <button id="myButton">Get Geolocation</button>
+
+    <script>
+        // const div = document.querySelector('#myDiv');
+        // let mo=document.getElementById("mueseover")
+
+        // div.addEventListener('mouseenter', () => {
+        //    alert('Mouse entered the div!');
+        // });
+
+        // mo.addEventListener("mouseover",()=>{
+        //     alert("Mouse over")
+        // })
+
+        // if (navigator.onLine) {
+        //     alert('User is online');
+        // } else {
+        //     alert('User is offline');
+        // }
+
+        const button = document.querySelector('#myButton');
+
+        button.addEventListener('click', () => {
+            navigator.geolocation.getCurrentPosition(position => {
+                alert(`Latitude: ${position.coords.latitude}, 
+               Longitude: ${position.coords.longitude} and timestamp : ${position.timestamp} `);
+                console.log(position)
+            });
+        });
+
+    </script>
+
 
 </body>
 

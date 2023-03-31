@@ -1,6 +1,6 @@
 ## <center> Html </center>
 
-- Reference link :- https://saber-columnist-50d.notion.site/Revision-Class-1-9fd74dd8b44f4de0aad40f3cb7cd9a0b
+- Reference link :- https://www.notion.so/HTML-CSS-questions-3df654c079d14c7087683ad6bb42b2b5
 1. How do you add CSS to an HTML webpage? 
    - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/html#1no)
 
@@ -27,6 +27,12 @@
 
 9. What are the different new form element types in HTML 5?
    - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/html#9no)
+
+10. What are forms in HTML?  
+    - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/html#10no) 
+
+11. What are event listeners in HTML?
+    - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/html#11no) 
 
 ---
 # 1.No
@@ -97,5 +103,11 @@
     - Telephone
     - Number
     - Search
-    - password      
-  
+    - password   
+---
+# 10.No
+  - Forms in HTML are used to create interactive elements on a web page that allow users to input and submit data.       
+  - Forms are essential for collecting information from users, such as login credentials, contact information, and search queries.
+---
+# 11.No
+   - Event listeners in HTML are JavaScript functions that are attached to specific HTML elements and triggered by certain events, such as a button click, mouse hover, or keyboard press  
