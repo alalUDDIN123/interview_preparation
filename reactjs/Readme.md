@@ -46,17 +46,18 @@
     - If we want to use multiples elements or component in a component then it should must be used. 
 
 # 5.No 
-  differences between `useMemo` and `useCallback`
-|  | `useMemo` | `useCallback` |
-| --- | --- | --- |
-| What it does | Memoizes a value or a computation | Memoizes a function |
-| When to use it | When you have a costly computation that should only be run when its dependencies change | When you have a function that you want to memoize so that it doesn't re-render unnecessarily |
-| Signature | `const memoizedValue = useMemo(() => computeExpensiveValue(dependency), [dependency]);` | `const memoizedCallback = useCallback(() => {doSomethingWithDependency(dependency)}, [dependency]);` |
-| Dependency array | List of values that the computation depends on | List of values that the function depends on |
-| Return value | Memoized value or computation | Memoized function |
-| Re-evaluation | Re-evaluates when any dependency changes | Re-creates the function when any dependency changes |
-| Use case example | Memoizing the result of a complex calculation in a component | Memoizing a callback function that is passed as a prop to a child component |
-| Optimization goal | Reduce the number of times the computation is performed | Reduce the number of times the function is re-created |
-| Performance impact | Can improve performance by preventing unnecessary re-calculation of expensive computations | Can improve performance by preventing unnecessary re-renders caused by re-creation of the same function |
-| Not recommended for | Memoizing event handlers or callbacks | Memoizing values or computations (use `useMemo` instead) | 
+
+1. `useCallback()` is a react hook that is used to memoize a function and optimize its performance.
+
+2. The main use case for `useCallback()` is to optimize the performance of child components that depend on a function that is passed down from a parent component.
+
+3. The useCallback Hook only runs when passed function or dependency changed 
+
+1. `useMemo()` is also a react hook that is used to memoize value and optimize its performance.
+
+2. The main use case for `useMemo()` is to optimize the performance of the application.
+3. The useMemo Hook only runs when one of its dependencies is updated
+
+
+
 
