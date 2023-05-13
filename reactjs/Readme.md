@@ -14,6 +14,51 @@
 
 5. differences between `useMemo` and `useCallback`
    - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/reactjs#5no)
+
+6. What is `JSX` in ReactJS?
+   - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/reactjs#6no)
+
+7. What is the difference between `Element` and `Component`?
+   - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/reactjs#7no)
+
+8. How to bind `methods` or `event handlers` in JSX callbacks?
+   - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/reactjs#8no)
+
+9. Different between `controlled` and `uncontrolled` components?
+   - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/reactjs#9no)
+
+10. What are the different phases of `component lifecycle`?   
+     - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/reactjs#10no)
+
+11. What are `Higher-Order components`?
+     - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/reactjs#11no)
+
+12. What are the `different ways to style a React component`?
+     - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/reactjs#12no)
+
+13. How to `pass data between react components`?
+     - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/reactjs#13no)
+
+14. What are Hooks?
+     - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/reactjs#14no)
+
+15. What are Context API and useContext Hook?
+     - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/reactjs#15no)
+
+16. what use cases of `useRef` hook? explain with example.
+     - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/reactjs#16no)
+
+17. What are the `different ways to handle events` in ReactJS?
+     - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/reactjs#17no)
+
+18. What is `Redux` and `how does it work` with ReactJS?
+     - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/reactjs#18no)
+
+19. What are the `best practices to follow while using ReactJS`?
+     - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/reactjs#19no)
+
+20. different between `local Storage` and `session Storage` ?
+     - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/reactjs#20no)
 --- 
 # 1.No
   - ReactJS is a JavaScript library used to build user interfaces.
@@ -29,8 +74,8 @@
 
 |    Feature            | State                      | Props                      |
 | -------------- | --------------------------| --------------------------|
-| Definition     | Internal state of a component | Properties passed to a component from its parent |
-| Mutability     | Mutable; can be changed using `setState()` method | Immutable; cannot be changed within the component |
+| Definition     | state is a mutable object that is used to store data | props are basically used to passed data from parent to child |
+| Mutability     | Mutable can be changed using `setState()` method | Immutable cannot be changed within the component |
 | Scope          | Local to a component; cannot be accessed outside of it | Can be accessed by the child components that receive them |
 | Rendering      | Changes trigger a re-render of the component | Changes trigger a re-render of the parent component that passed the props |
 
