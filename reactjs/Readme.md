@@ -1,10 +1,19 @@
 ## <center> REACT JS </center>
 
 1. What is `reactJS`? why react is so `popular` ?
+   - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/reactjs#1no)
+
 2. What is the difference between state and props in ReactJS?
+   - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/reactjs#2no)
+
 3. what is pure component in react js?
+   - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/reactjs#3no)
+
 4. What is react fragment ? why it is used ?
+   - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/reactjs#4no)
+
 5. differences between `useMemo` and `useCallback`
+   - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/reactjs#5no)
 --- 
 # 1.No
   - ReactJS is a JavaScript library used to build user interfaces.
