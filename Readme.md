@@ -2,37 +2,37 @@
 
 - Reference link :- https://www.notion.so/HTML-CSS-questions-3df654c079d14c7087683ad6bb42b2b5
 1. How do you add CSS to an HTML webpage? 
-   - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/html#1no)
+   - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/html#1no)
 
 2. What does html stands for ?
-   - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/html#2no)
+   - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/html#2no)
 
 3. What is meta tag ?
-   - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/html#3no)
+   - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/html#3no)
 
 4. What is Semantic HTML tags ? Give some examples
-   - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/html#4no)
+   - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/html#4no)
 
 5. What are  difference between block-elements and inline-elements ?  
-   - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/html#5no)
+   - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/html#5no)
 
 6. What is the difference between HTML elements and tags?
-   - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/html#6no)
+   - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/html#6no)
 
 7. What is the default font-size of each heading
-   - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/html#7no)
+   - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/html#7no)
 
 8. What are empty elements/void or self closing elements?
-   - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/html#8no)
+   - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/html#8no)
 
 9. What are the different new form element types in HTML 5?
-   - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/html#9no)
+   - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/html#9no)
 
 10. What are forms in HTML?  
-    - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/html#10no) 
+    - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/html#10no) 
 
 11. What are event listeners in HTML?
-    - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/html#11no) 
+    - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/html#11no) 
 
 ---
 # 1.No
