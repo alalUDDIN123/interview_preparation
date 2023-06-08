@@ -1,46 +1,46 @@
 ## <center> CSS </center>
 
 1. What does `css` stands for
-   - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/css#1no)
+   - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/css#1-what-does-css-stands-for)
 
 2. What are CSS selectors?
-   - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/css#2no)
+   - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/css#2--what-are-css-selectors)
 
 3. What are CSS variables?
-   - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/css#3no)
+   - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/css#3-what-are-css-variables)
 
 4. What is the difference between position absolute and relative?
-   - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/css#4no)
+   - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/css#4-what-is-the-difference-between-position-absolute-and-relative)
 
 5. What is Box Model?
-   - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/css#5no)
+   - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/css#5-what-is-box-model)
 
 6. What is a flex-box?
-   - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/css#6no)
+   - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/css#6-what-is-a-flexbox)
 
 7. What does `justify-content, justify Items, justify Self` mean?
-   - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/css#7no)
+   - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/css#7-what-does-justify-content-justify-items-and-justify-self-mean)
 
 8. What do `AlignItems, AlignContent, and AlignSelf` mean?
-   - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/css#8no)
+   - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/css#8-what-do-align-items-align-content-and-align-self-mean)
 
 9. What are grids?
-   - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/css#9no)
+   - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/css#9-what-are-grids)
 
 10. What are the differences between Flex and Grids?
-    - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/css#10no)
+    - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/css#10-what-are-the-differences-between-flexbox-and-grids)
 
 11. What is specificity, and how do you calculate it?
-    - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/css#11no)
+    - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/css#11-what-is-specificity-and-how-do-you-calculate-it)
 
 12. What are media queries?
-    - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/css#12no)
+    - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/css#12-what-are-media-queries)
 
 13. What is the difference between min-width and max-width in media queries?
-    - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/css#13no)
+    - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/css#13-what-is-the-difference-between-min-width-and-max-width-in-media-queries)
 
 14. What are animation and keyframe
-    - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/main/css#14no)
+    - [Ans](https://github.com/alalUDDIN123/interview_preparation/tree/css#14-what-are-animations-and-keyframes)
 ---
 # 1. What does `css` stands for
    - `Case Cading Stylesheet`
