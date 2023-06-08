@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>html </title>
+    <link rel="shorticon icon"
+        href="https://play-lh.googleusercontent.com/MPDzYIvnXkFgILeyVYa1ZrBhWrQI6voJQ83R3TGhUvU4jjcV3ClQVlhuWDucmSkSwqc">
+</head>
+
+<style>
+    h1 {
+        text-align: center;
+        color: blue;
+    }
+</style>
+
+<body>
+
+    <!-- Specificity -->
+    <h1 style="color: red;">Masai School</h1>
+
+    <!-- Lists -->
+    <!-- <dl>
+        <dt>HTML</dt>
+        <dd>HyperText Markup Language - the standard markup language used to create web pages.</dd>
+
+        <dt>CSS</dt>
+        <dd>Cascading Style Sheets - a stylesheet language used to describe the presentation of a document written in
+            HTML.</dd>
+
+        <dt>JavaScript</dt>
+        <dd>A programming language used to create dynamic and interactive effects on web pages.</dd>
+    </dl> -->
+
+    <!-- event lister in html -->
+    <!-- 
+    <div id="myDiv">Hover over me!</div>
+    <div id="mueseover">Mouse over</div> -->
+
+    <button id="myButton">Get Geolocation</button>
+
+    <script>
+        // const div = document.querySelector('#myDiv');
+        // let mo=document.getElementById("mueseover")
+
+        // div.addEventListener('mouseenter', () => {
+        //    alert('Mouse entered the div!');
+        // });
+
+        // mo.addEventListener("mouseover",()=>{
+        //     alert("Mouse over")
+        // })
+
+        // if (navigator.onLine) {
+        //     alert('User is online');
+        // } else {
+        //     alert('User is offline');
+        // }
+
+        const button = document.querySelector('#myButton');
+
+        button.addEventListener('click', () => {
+            navigator.geolocation.getCurrentPosition(position => {
+                alert(`Latitude: ${position.coords.latitude}, 
+               Longitude: ${position.coords.longitude} and timestamp : ${position.timestamp} `);
+                console.log(position)
+            });
+        });
+
+    </script>
+
+
+</body>
+
+</html>
