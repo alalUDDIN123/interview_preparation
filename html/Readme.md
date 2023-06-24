@@ -21,8 +21,6 @@
 7. What is the difference between block elements and inline elements?
    - Block elements start on a new line and take the full width, while inline elements don't break the line and occupy only necessary width.
 
-   Certainly! Here are shorter answers to the previously provided questions:
-
 8. What are the different types of storage in HTML5?
     - localStorage.
     - SessionStorage.
