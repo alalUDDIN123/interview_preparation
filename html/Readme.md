@@ -16,3 +16,7 @@
 7. What is the difference between block elements and inline elements? (Alternative: Compare and contrast block elements and inline elements in HTML.)
 
 Let me know if there's anything else I can assist you with!
+
+---
+
+# 1. Answer : HTML is a standard markup language used for creating web pages and application.  It helps to structure the content of a webpage, defining the different elements and their relationships.
